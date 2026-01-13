@@ -6,8 +6,8 @@ import { Providers } from '@/components/providers/Providers';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Enterprise App',
-  description: 'Next.js Enterprise Application',
+  title: 'Next.js Boilerplate',
+  description: 'SSR boilerplate',
 };
 
 export default function RootLayout({
